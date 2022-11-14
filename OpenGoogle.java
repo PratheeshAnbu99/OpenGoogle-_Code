@@ -13,6 +13,8 @@ public class OpenGoogle {
         WebDriver driver = new 	ChromeDriver();
 		driver.get("http:\\www.google.co.in");
 		
+		driver.findElement(By.name("q")).sendKeys("POWER RANGERS"+Keys.ENTER);
+		
 		
 
 	}
