@@ -14,6 +14,9 @@ public class OpenGoogle {
 		driver.get("http:\\www.google.co.in");
 		
 		driver.findElement(By.name("q")).sendKeys("POWER RANGERS"+Keys.ENTER);
+		driver.findElement(By.linkText("Wikipedia")).click();
+		
+		
 		
 		
 
