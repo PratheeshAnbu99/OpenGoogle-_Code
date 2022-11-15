@@ -25,6 +25,9 @@ public class OpenGoogle {
 			
 			
 			This is  Jawahar's Commit to Learn Merge conflict 
+			
+			
+			fixed the click operation bug
 
 
 		
