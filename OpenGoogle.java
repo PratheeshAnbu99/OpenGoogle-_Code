@@ -19,11 +19,13 @@ public class OpenGoogle {
 		
 		Forking this code to add new feautures
 
+
+			lets learn to resolve a merge conflict
+		
 			
-			commenting this to learn how to resolve a CONFLICT
 			
-			
-			this is Nirmala's Conflict resolving to Anbu
+			This is  Jawahar's Commit to Learn Merge conflict 
+
 
 		
 		
