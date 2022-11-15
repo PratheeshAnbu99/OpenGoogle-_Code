@@ -18,7 +18,9 @@ public class OpenGoogle {
 		
 		
 		Forking this code to add new feautures
-			commenting to learn how to resolve a conmflict
+
+			lets learn to resolve a merge conflict
+
 		
 		
 		
